@@ -137,7 +137,9 @@ Hardware image:
 <img width="1280" height="858" alt="physical image" src="https://github.com/user-attachments/assets/c016c3ea-2d04-4048-9acf-622b117f55e9" />
 
 Authors
+
 Koushik Vishal S
+
 Kishore Khannan H
 
 License
